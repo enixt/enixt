@@ -1,0 +1,9 @@
+Building Enixt
+
+See doc/readme-qt.rst for instructions on building Enixt QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Enixt.
+
+See doc/build-*.txt for instructions on building enixtd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Enixt.
